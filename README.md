@@ -18,6 +18,8 @@
 | **新币搜索** | [@xbso](https://t.me/xbso?start=a_7732453551) | 帮你发现有趣群组、频道、视频、音乐、电影、新闻 |
 | **搜索群组**   | [@jx_search](https://t.me/jx_search)             | 可以在里面搜索你想要的一切   |
 | **IKUUU VPN**       |       [官网](https://ikuuu.de/auth/register)      | 全网唯一免费机场，每人每月50G |
+| 吃瓜视频 | [https://t.me/cgbg8](https://t.me/cgbg8) | 🍉实时分享全网第一个热瓜      |
+| 大千新闻网 | [@dqnew](https://t.me/dqnew) | 最新海外华人资讯      |
 | Telegram涨粉业务 | [https://faka.tg10000.com](https://faka.tg10000.com) |[电报哥](https://www.youtube.com/@tgxiunv)的店铺，全网最低价出售各种电报相关的业务，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=842655059)交易所红包，无手续费[@tgxiunv](https://t.me/tgxiunv)|
 | 币圈必备学习资料   | [awesome-crypto](https://github.com/itgoyo/awesome-crypto)          | 💰财务自由必备币圈导航，没有钱包的建议先申请一个交易所钱包、个人比较推荐[币安](https://accounts.binance.com/zh-CN/register?ref=842655059)，币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)  |
 | **币安交易所**    |   [https://www.binance.com](https://accounts.binance.com/zh-CN/register?ref=CPA_00BTEC5MA3)   | 邀请码：**CPA_00BTEC5MA3**，币安交易所(持有bnb减免40%手续费)币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[币安刷Alpha积分视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)|
@@ -1017,26 +1019,6 @@ I am requesting for removal of account limitations.
 *   KeralaGram:[https://t.me/keralagram](https://t.me/keralagram)
 *   64Gram:[https://t.me/tg_x64](https://t.me/tg_x64)
 *   telegram.Bot:[https://t.me/pythontelegrambotgroup](https://t.me/pythontelegrambotgroup)
-
-### 地区群
-
-*   深圳:[https://t.me/shenzhenbot?start=join](https://t.me/shenzhenbot?start=join)
-*   深圳:[https://t.me/shenzhentg](https://t.me/shenzhentg)
-*   北京:[https://t.me/beijingz](https://t.me/beijingz)
-*   广州:[https://t.me/GuangzhouIT](https://t.me/GuangzhouIT)
-*   四川:[https://t.me/civhuanglaoxiao](https://t.me/civhuanglaoxiao)
-*   川渝:[https://t.me/chongqing_sichuang](https://t.me/chongqing_sichuang)
-*   西安:[https://t.me/XianCity](https://t.me/XianCity)
-*   南宁:[https://t.me/NanNingTG](https://t.me/NanNingTG)
-*   滕州:[https://t.me/tengzhou](https://t.me/tengzhou)
-*   烟台:[https://t.me/yantaiinfo](https://t.me/yantaiinfo)
-*   湖南:[https://t.me/hunantg](https://t.me/hunantg)
-*   济南:[https://t.me/jinan_tg](https://t.me/jinan_tg)
-*   郑州:[https://t.me/zhengzhoutg](https://t.me/zhengzhoutg)
-*   西安:[https://t.me/joinchat/FY1SJkRF6ubEQzU-3Mq3cw](https://t.me/joinchat/FY1SJkRF6ubEQzU-3Mq3cw)
-*   河南郑州:[https://t.me/hnzzs](https://t.me/hnzzs)
-*   河南周口:[https://t.me/zhoukou](https://t.me/zhoukou)
-*   杭州电报群|杭州茶馆:[https://t.me/+bJkN6Cz7WIQ5YjQ9](https://t.me/+bJkN6Cz7WIQ5YjQ9)
 
 ### 其他
 
